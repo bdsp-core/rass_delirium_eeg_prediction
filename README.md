@@ -13,5 +13,5 @@ This repository contains the code used in the paper, trained models, and example
 
 ## License
 
-This module is provided under the [MIT License](https://opensource.org/licenses/MIT).
+The code and example data are provided under the [MIT License](https://opensource.org/licenses/MIT).
 
