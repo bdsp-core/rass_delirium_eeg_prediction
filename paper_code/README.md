@@ -49,7 +49,6 @@ The architecture of this folder is
         * model_CAMICU_rnn2_fold [X]_nfix [Y].pth: the trained second layer of LSTM from the X-th fold when fixing the first [Y] layers in the RASS model
 * figures
     * figure[X]_...py/.png/.pdf: the code and generated figures in png and pdf formats
-    * figure_tsne_RASS.png: the figure "for fun". tSNE visualization of the last hidden layer of the model
     * estimate_IRR.py: estimate the inter-rater reliability
 * data
     * data_list.txt: the list of paths of all files
